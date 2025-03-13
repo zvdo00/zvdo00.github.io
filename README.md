@@ -6,4 +6,4 @@ Damn
 
 This is a place to find every tutorial I have ever published here.
 
-Click [here](google.com) to go to google.
+Click [here](prismlauncher) to go to Prism Launcher tutorial.
