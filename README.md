@@ -9,5 +9,5 @@ Click [here](prismlauncher.md) to go to Prism Launcher tutorial.
 [Do you hate ads? Click here](adblocking.md)
 
 Contact me:
-* [Reddit](https://reddit.com/r/zvdo)
+*[Reddit](https://reddit.com/r/zvdo)
 * Discord: @zvdo 
