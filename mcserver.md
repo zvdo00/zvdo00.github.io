@@ -18,9 +18,9 @@ For Minecraft Java Edition, you need to choose between a Vanilla server, a modde
 
 #### Vanilla server
 
-1. Download server.jar from Minecraft.net.
- 1.1 Visit https://www.minecraft.net/pt-br/download/server and click "Download minecraft_server.1.21.4.jar"
-  1.1.1 That website only has the server.jar of the newest version. If you want to make a server on an older version, go to [minecraft.wiki](https://minecraft.wiki) and search for the version you want. For examble, [1.20.1](https://minecraft.wiki/w/Java_Edition_1.20.1). On the right, there should be a "Downloads" section. Click on "server".
-  ![alt text](image.png)
+1. Download server.jar from Minecraft.net.\
+ 1.1 Visit https://www.minecraft.net/pt-br/download/server and click "Download minecraft_server.1.21.4.jar"\
+  1.1.1 That website only has the server.jar of the newest version. If you want to make a server on an older version, go to [minecraft.wiki](https://minecraft.wiki) and search for the version you want. For examble, [1.20.1](https://minecraft.wiki/w/Java_Edition_1.20.1). On the right, there should be a "Downloads" section. Click on "server".\
+  ![alt text](image.png)\
   
  1.2 
