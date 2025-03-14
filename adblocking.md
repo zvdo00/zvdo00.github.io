@@ -1,6 +1,6 @@
 # Blocking ads
 
-No one likes ads. Except, of course, big corps that makea lot of money because of them. Here I will list ad blocking methods for different apps and websites.
+No one likes ads. Except, of course, big corps that make a lot of money because of them. Here I will list ad blocking methods for different apps and websites.
 
 ## Blocking ads in websites
 
