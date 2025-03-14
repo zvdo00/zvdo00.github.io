@@ -10,5 +10,4 @@ Click [here](prismlauncher.md) to go to Prism Launcher tutorial.
 
 Contact me:
 * [Reddit](https://reddit.com/r/zvdo)
-* [Discord](https://discordapp.com/channels/@me/780780903282245643/)
-* 
+* Discord: @zvdo 
