@@ -30,8 +30,7 @@ For Minecraft Java Edition, you need to choose between a Vanilla server, a modde
 
 3. Create the start.bat file
    Now, right click and "Create new" > "Text file".\
-    Open that file and write:\
-```java -Xmx2048M -Xms1024M -jar server.jar```\
+    Open that file and write:```java -Xmx2048M -Xms1024M -jar server.jar```\
     Save by clicking "File" > "Save" or simply Ctrl + S.
    > [!TIP]\
    > You can adjust how much ram you allocate to the server by changing the numbers. For 2GB, leave it as is. For 4GB, replace ```-Xmx2048M``` with ```-Xmx4096M```. I would say allocate at least 2GB. And obviously don't allocate too much.
