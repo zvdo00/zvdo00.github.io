@@ -7,8 +7,8 @@ There are many ways to create a Minecraft server to play with other people. Here
 I would say this is the best free method, but as always, there are disadvantages.
 
 * Advantages:
- * Can stay online 24/7 as long as you leave your computer on 24/7.
- * Ping is near 0 for you and friends that live near you.
+  * Can stay online 24/7 as long as you leave your computer on 24/7.
+  * Ping is near 0 for you and friends that live near you.
 * Disadvantages:
  * 
 
