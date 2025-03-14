@@ -40,3 +40,7 @@ Save by clicking "File" > "Save" or simply Ctrl + S.
 
     Make sure you can see the file extension, like .jar and .txt. If you can't, click on View, and turn on Filename extensions.\
     Name that text  you just created something like "start.bat". It has to have a .bat extension, or else this won't work.\
+
+4. Start the server
+
+Double click the bat file to start the server. A few new files will appear in your server folder. When everything is done, you should see a eula. txt. Open it, swap ```eula=false``` to ```eula=true```. Save the changes, and start the server again. New folders and files will be created and a GUI will appear.
