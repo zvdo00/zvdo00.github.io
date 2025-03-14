@@ -43,4 +43,4 @@ Save by clicking "File" > "Save" or simply Ctrl + S.
 
 4. Start the server
 
-  Double click the bat file to start the server. A few new files will appear in your server folder. When everything is done, you should see a eula. txt. Open it, swap ```eula=false``` to ```eula=true```. Save the changes, and start the server again. New folders and files will be created and a GUI will appear.
+   Double click the bat file to start the server. A few new files will appear in your server folder. When everything is done, you should see a eula. txt. Open it, swap ```eula=false``` to ```eula=true```. Save the changes, and start the server again. New folders and files will be created and a GUI will appear.
