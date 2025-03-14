@@ -4,13 +4,13 @@ No one likes ads. Except, of course, big corps that makea lot of money because o
 
 ## Blocking ads in websites
 
-The best adblocker currently is [uBlock Origin](https://ublockorigin.com/). Works pretty much flawlessly, even in YouTube. The only website I still see ads with uBlock Origin installed is Twitch.
+The best adblocker currently is [uBlock Origin](https://ublockorigin.com/). Works pretty much flawlessly, even in YouTube. The only website I still see ads with uBlock Origin installed is Twitch. Also works for Firefox Mobile on Android.
 
 uBlock Origin is not availiable for Google Chrome, as of March 3rd, 2025, due to [Manifest v3](https://developer.chrome.com/docs/extensions/develop/migrate/what-is-mv3), Google's latest attempt at "improving the privacy, security and performance" of extensions.
 
 Because of that,  I would advise you to at least try the [Firefox](https://www.mozilla.org/firefox/new/) browser, or any fork of Firefox.
 
-As an alternative for those who want to stay on Chromium based browsers, [Brave](https://brave.com) blocks pretty much all ads too, and there's no need to install any adblockers on Brave, since it blocks ads by default.
+As an alternative for those who want to stay on Chromium based browsers, [Brave](https://brave.com) blocks pretty much all ads too, and there's no need to install any adblockers on Brave, since it blocks ads by default. Brave also works in iOS devices, since it doesn't need an extension to block ads.
 
 ## Blocking ads in YouTube mobile app
 
