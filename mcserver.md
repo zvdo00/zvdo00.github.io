@@ -25,7 +25,7 @@ For Minecraft Java Edition, you need to choose between a Vanilla server, a modde
  ![minecraft.wiki server download](mc.wiki_serverdl.png)
   
 2. Prepare the server folder.
- * After downloading the file, find it on your computer and copy it. Now, make a folder somewhere easy to access. For example,inside a folder named "Minecraft Server" inside your Documents folder.
+ * After downloading the file, find it on your computer and copy it. Now, make a folder somewhere easy to access. For example, inside a folder named "Minecraft Server" inside your Documents folder.
  * Paste the server.jar file you copied earlier in this folder.
 
 3. Now, right click and "Create new" > "Text file".\
@@ -34,6 +34,6 @@ Open that file and write:
 java -Xmx2048M -Xms1024M -jar server.jar
 ```
 Save by clicking "File" > "Save" or simply Ctrl + S.
-> Tip: you can adjust how much ram you allocate to the server by changing the numbers. For 2GB, leave it as is. For 4GB, instead of -Xmx2048M, write -Xmx4096M. I would say allocate at least 2GB. And obviously don't allocate too much.
+> Tip: you can adjust how much ram you allocate to the server by changing the numbers. For 2GB, leave it as is. For 4GB, instead of -Xmx2048M, write -Xmx4096M. I would say allocate at least 2GB. And obviously don't allocate too much.\
 Make sure you can see the file extension, like .jar and .txt. If you can't, click on View, and turn on Filename extensions.\
 Name that text  you just created something like "start.bat". It has to have a .bat extension, or else this won't work.\
