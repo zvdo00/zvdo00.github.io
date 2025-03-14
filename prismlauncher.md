@@ -10,6 +10,6 @@ To install Prism Launcher, go to https://prismlauncher.org/ and click download.
 ![Prism Launcher Website screenshot](https://github.com/user-attachments/assets/2e32e55d-2843-4fde-8ae4-90d243e71d28)
 
 It will most likely select your OS automatically, but if it doesn't, just select it manually.
-In my case, since I'm using Windows, I'll just click ![Prism Launcher download button screenshot](https://github.com/user-attachments/assets/ad9d7062-4102-48c6-a9a6-b0fcd6541bf8).
+In my case, since I'm using Windows, I'll just click <img src="https://github.com/user-attachments/assets/ad9d7062-4102-48c6-a9a6-b0fcd6541bf8" alt="Prism Launcher download button screenshot" width="300" height="200">
 
 When the download is complete, just run the executable file.
