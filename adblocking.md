@@ -23,4 +23,5 @@ You will probably need tutorials for ReVanced if you have never used it before. 
 
 ## Blocking ads in Spotify mobile app (Android only!)
 
-Tired of "Want a break from the ads?" And don't wanna spend money on Spotify premium?
+Tired of "Want a break from the ads?" And don't wanna spend money on Spotify premium? Well I have good news for you.
+Thanks to ReVanced and xManager devs, 
