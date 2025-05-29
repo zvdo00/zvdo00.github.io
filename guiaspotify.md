@@ -15,6 +15,10 @@ Infelizmente, não deixa baixar as músicas como se fosse Spotify Premium.
 ### 1. Não use sua conta principal.
 É raro de encontrar alguém que teve a conta banida por fazer isso, mas não arrisque: crie uma conta secundária para caso algum dia haja uma *ban-wave*
 
+## Tutorial
+
+### Requisitos
+
 https://github.com/AbdurazaaqMohammed/AntiSplit-M
 
 https://github.com/AbdurazaaqMohammed/AntiSplit-M/releases
