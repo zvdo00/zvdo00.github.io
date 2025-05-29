@@ -4,7 +4,7 @@ Bem-vindo(a) a página de tutoriais do zvdo!
 
 Aqui tem alguns tutoriais aleatórios para você.
 
-Click [here](README_EN.md) to go to the English version
+Click [here](README_EN.md) to navigate to the English version.
 
 
 
