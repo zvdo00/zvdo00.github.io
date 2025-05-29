@@ -1,17 +1,15 @@
-# zvdo's tutorials
+# Tutoriais do zvdo
 
-Welcome to zvdo's tutorials!
+Bem-vindo(a) a página de tutoriais do zvdo!
 
-Here are a few random tutorials on how to do stuff.
+Aqui tem alguns tutoriais aleatórios para você.
 
-Click [here](prismlauncher.md) to go to Prism Launcher tutorial.
+Click [here](README_EN.md) to go to the English version
 
-[Windows installation tutorial](windows.md)
 
-[Do you hate ads? Click here](adblocking.md)
 
-[Want to make your own Minecraft server? Here](mcserver.md)
+[]
 
-Contact me:
+Contate me:
 * [Reddit](https://reddit.com/r/zvdo)
-* Discord: @zvdo 
+* Discord: @zvdo
