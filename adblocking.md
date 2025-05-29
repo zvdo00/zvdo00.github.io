@@ -20,3 +20,7 @@ You will probably need tutorials for ReVanced if you have never used it before. 
 * [ReVanced subreddit](https://www.reddit.com/r/revancedapp)
 * [ReVanced Documentation on GitHub](https://github.com/ReVanced/revanced-documentation)
 * [YouTube Revanced step-by-step tutorial by u/Somedude10010](https://www.reddit.com/r/revancedapp/comments/1btva4j/tutorial_updated_but_still_good_music/)
+
+## Blocking ads in Spotify mobile app (Android only!)
+
+Tired of "Want a break from the ads?" And don't wanna spend money on Spotify premium?
