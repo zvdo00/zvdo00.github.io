@@ -1,5 +1,8 @@
 # Spotify sem anúncions no Android
 
+> [!NOTE]
+> Este guia só funciona para Android. Se eu achar algum método tão bom quanto esse para iOS, crio outro guia específico para isso.
+
 ## Informações gerais
 
 ### O que isso faz?
