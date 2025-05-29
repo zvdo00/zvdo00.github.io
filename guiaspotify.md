@@ -19,4 +19,4 @@ Infelizmente, não deixa baixar as músicas como se fosse Spotify Premium.
 
 ### Requisitos
 
-[AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) (baixe de https://github.com/AbdurazaaqMohammed/AntiSplit-M/releases)
+[AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) (baixe o apk mais recente de https://github.com/AbdurazaaqMohammed/AntiSplit-M/releases)
