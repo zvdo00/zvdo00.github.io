@@ -19,4 +19,6 @@ Infelizmente, não deixa baixar as músicas como se fosse Spotify Premium.
 
 ### Requisitos
 
-[AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) (baixe o apk mais recente de https://github.com/AbdurazaaqMohammed/AntiSplit-M/releases)
+* [Spotify](https://play.google.com/store/apps/details?id=com.spotify.music), baixe direto da PlayStore;
+* [AntiSplit-M](https://github.com/AbdurazaaqMohammed/AntiSplit-M) (baixe o apk mais recente de https://github.com/AbdurazaaqMohammed/AntiSplit-M/releases);
+* [ReVanced Manager](https://revanced.app/) (download aqui: https://revanced.app/download)
