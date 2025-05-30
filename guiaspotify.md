@@ -1,7 +1,6 @@
 # Spotify sem anúncios no Android
 
-> [!NOTE]
-> Este guia só funciona para Android. Se eu achar algum método tão bom quanto esse para iOS, crio outro guia específico para isso.
+![Aviso: esse guia só funciona para Android. Se eu achar algum método tão bom quanto esse para iOS, crio outro guia específico para isso.](https://github.com/zvdo00/zvdo00.github.io/blob/main/tempfix_note.png?raw=true)
 
 ## Informações gerais
 
