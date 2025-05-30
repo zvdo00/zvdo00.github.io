@@ -39,4 +39,5 @@ Infelizmente, não deixa baixar as músicas como se fosse Spotify Premium.
 12. Quando acabar, recomendo clicar no ícone de disquete (salvar) no canto inferior esquerdo, e escolha um lugar para salvar o apk.
 13. Após isso, encontre e clique no apk recém construído (o nome deve ser spotify-revanced_vX.X.XX.XXX-patches_vY.YY.Y.apk, onde X é a versão do Spotify e Y é a versão dos patches do ReVanced)
 14. Clique em "Instalar" quando aparecer o botão e aguarde
-15. Quando estiver pronto, abra o novo aplicativo do Spotify
+15. Quando estiver pronto, abra o novo aplicativo do Spotify e faça login com sua conta (de preferência secundária)
+16. Abra a PlayStore, abra a página do Spotify e clique nos 3 pontinhos no canto superior esquerdo, e desative a atualização automática se estiver ativada
